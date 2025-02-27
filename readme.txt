@@ -1,7 +1,7 @@
 🎤 Local AI Voice Assistant (Push-to-Talk)
 This project is a voice-controlled AI assistant that:
 
-Listens when you hold the Space key
+Listens when you hold the Shift key
 Transcribes speech using Whisper
 Sends the text to Ollama / LM Studio for AI responses
 Speaks the response using Edge TTS
