@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Ignore virtual environment
+.venv/
+venv/
+# Ignore JetBrains PyCharm settings
+.idea/
+# Ignore Python cache and temp files
+__pycache__/
+*.log
+*.tmp

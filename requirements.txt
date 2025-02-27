@@ -1,0 +1,8 @@
+numpy
+sounddevice
+whisper
+edge-tts
+pygame
+pynput
+requests
+torchaudio
